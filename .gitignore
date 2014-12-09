@@ -21,3 +21,13 @@
 *.exe
 *.out
 *.app
+#Temporary
+^.*
+*.*~
+
+#Bin/Build
+bin
+build
+*.exe
+
+
