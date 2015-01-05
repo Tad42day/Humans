@@ -10,7 +10,7 @@ public class Player : MonoBehaviour {
 	public float VelocityWalk;
 	public float VelocityFly;
 
-
+	//New update
 	public float angles;
 
 
